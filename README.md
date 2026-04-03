@@ -28,6 +28,6 @@ I'm a student developer exploring the world of tech — learning by doing, one p
 
 Feel free to explore my repos, drop a star ⭐ if something helps you, or reach out!
 
-![Boomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Boomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomikaSivabalan&show_icons=true&theme=tokyonight)
 
 > *"Fall seven times, stand up eight."* — a vibe I live by 🥊
