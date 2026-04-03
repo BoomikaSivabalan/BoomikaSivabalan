@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey, I'm Boomika 👊
 
-<!--
-**BoomikaSivabalan/BoomikaSivabalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student dev · Job hunting · Always building something
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+I'm a student developer exploring the world of tech — learning by doing, one project at a time.
+
+- 🥊 **Boxing** — discipline on and off the keyboard
+- 🌀 **Anime** — currently accepting recommendations
+- 🔭 Currently learning and building projects
+- 💼 Open to junior roles
+- 🤝 Always down for collabs and new ideas
+
+---
+
+### What I'm up to
+
+- Building projects to grow my skills
+- Exploring different areas of software dev
+- Looking for opportunities to contribute & grow
+
+---
+
+### Let's connect!
+
+Feel free to explore my repos, drop a star ⭐ if something helps you, or reach out!
+
+![Boomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+> *"Fall seven times, stand up eight."* — a vibe I live by 🥊
