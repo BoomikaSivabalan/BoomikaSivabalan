@@ -1,8 +1,10 @@
 ## Hey, I'm Boomika 👊
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Student+Dev+%F0%9F%92%BB;Boxer+%F0%9F%A5%8A;Anime+Enthusiast+%F0%9F%8C%80;Always+Learning!)
 Student dev · Job hunting · Always building something
 
 ---
+> *"Fall seven times, stand up eight."* — a vibe I live by 🥊
 
 ### About me
 
@@ -28,6 +30,5 @@ I'm a student developer exploring the world of tech — learning by doing, one p
 
 Feel free to explore my repos, drop a star ⭐ if something helps you, or reach out!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Student+Dev+%F0%9F%92%BB;Boxer+%F0%9F%A5%8A;Anime+Enthusiast+%F0%9F%8C%80;Always+Learning!)
 
-> *"Fall seven times, stand up eight."* — a vibe I live by 🥊
+
